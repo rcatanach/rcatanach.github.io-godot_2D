@@ -1,8 +1,17 @@
-rcatanach.github.io
-2D Godot Game
+Dodge the Creeps — Modified Version
 
 Description:
-Beat your high score while avoiding enemies! You have 3 lives—survive as long as you can. Good luck! 🎮
+This is a modified version of the classic Dodge the Creeps game. The goal is to survive as long as possible while avoiding enemies.
+
+What I Changed / Added:
+
+3 Lives: The player now has 3 lives instead of just 1.
+
+Game Over Screen: Added a game over state when all lives are lost.
+
+High Score: The game tracks your high score across sessions.
+
+Fun Background: Added a custom background to make the game more visually engaging.
 
 How to Play:
 
@@ -10,7 +19,7 @@ Open web.html in your browser (or visit the GitHub Pages URL).
 
 Use the controls to move your player and avoid enemies.
 
-Try to beat your high score before losing all 3 lives.
+Survive as long as possible to beat your high score.
 
 Files:
 
@@ -22,9 +31,9 @@ web.pck — Game data
 
 web.icon.png — Game icon
 
+
 Notes:
 
-Works best in modern browsers.
+Best played in modern browsers.
 
-You can also run locally using VS Code Live Server to test.
-
+Initial load may take a few seconds while the game downloads assets.
